@@ -24,9 +24,10 @@ This project fine-tunes the GPT-2 language model on book text data to generate t
 To install and set up this project, follow these steps:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/mehtabafsar/your-repository.git
 cd your-repository
 pip install -r requirements.txt
+
 ```
 
 Ensure you have the necessary dependencies listed in `requirements.txt`. 
